@@ -1,0 +1,7 @@
+Rapid.API
+
+consume API
+
+RAPID API WEBSITE
+
+api.openweathermap.org/data/2.5/forecast?q={mumbai}&appid=304c4b5fc3f93c05226f7da64727aba9
